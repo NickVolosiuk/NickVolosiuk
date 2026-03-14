@@ -128,7 +128,8 @@ I'm a QA Manual & Automation Engineer with **9+ years** of experience delivering
 
 <div align="center">
 
-💬 *"The bitterness of poor quality remains long after the sweetness of meeting the schedule."* 🐛
+💬 *"I trust code like I trust weather forecasts — I'll bring an umbrella anyway."*
+
 
 <br/>
 
