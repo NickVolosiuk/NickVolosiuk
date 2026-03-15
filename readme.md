@@ -14,6 +14,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nick-volosiuk)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nick.volosiuk@gmail.com)
 ![Miami](https://img.shields.io/badge/📍_Miami,_FL-%2300FFF0?style=for-the-badge&labelColor=000)
+<br/>
+
+💬 *"I trust code like I trust weather forecasts — I'll bring an umbrella anyway."*
+
+
 
 </div>
 
@@ -128,10 +133,7 @@ I'm a QA Manual & Automation Engineer with **9+ years** of experience delivering
 
 <div align="center">
 
-💬 *"I trust code like I trust weather forecasts — I'll bring an umbrella anyway."*
 
-
-<br/>
 
 ![Views](https://komarev.com/ghpvc/?username=NickVolosiuk&color=00fff0&style=for-the-badge&label=PROFILE+VIEWS)
 
